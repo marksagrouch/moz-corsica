@@ -216,6 +216,13 @@
                 ]
             },
             {
+                "name": "EU Zoom Upgrade Schedule",
+                "random": true,
+                "commands": [
+                    gslide id=1wu-We7TxYtqiwqhx_JmlcxrcsHGUY3bWIouPEmPL8ME comment=\"EU Zoom Upgrade Schedule 2020\""
+                ]
+            },
+            {
                 "name": "berlin-fun",
                 "random": true,
                 "commands": [
